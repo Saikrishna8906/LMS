@@ -1,0 +1,11 @@
+Here is an amazing view! I completed a "LIBRARY MANAGEMENT SYSTEM" project using java that I am excited to share with you all! This project has been a great opportunity for me to explore my Knowledge and Skills  . Using JAVA, I created  LMS and  included login page then adding new Student Details ,Book Details,Issue Book,Return Book,Due Date and Statistics ,Finally LogOut..........
+
+
+
+📌  Project 1: Library Management system
+
+📌  IDE : NetBeans
+
+📌GitHub Repository:  https://github.com/MeghanaOruganti/Library-Management-System_Meghana.git
+
+If you're interested in exploring the code, you can find it on my GitHub page. Try it out and let me know what you think!
