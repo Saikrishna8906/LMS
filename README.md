@@ -1,2 +1,2 @@
 # LMS
-Library Mnagement Project_SaiKrishna
+Library Management Project_SaiKrishna
